@@ -1,7 +1,7 @@
 # Prompt Engineering Portfolio
 
-**Name:** [Your Name]
-**Date:** June 2, 2026
+**Name:** Prathamvir Singh
+**Date:** June 6, 2026
 **LLM Used:** Claude Sonnet 4 (claude-sonnet-4-20250514) via Claude.ai
 
 ---
